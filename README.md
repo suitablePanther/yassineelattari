@@ -1,1 +1,1 @@
-<a href='yassineeleattari.pages.dev'>Demo</a>.
+<a href='yassineeleattari.pages.dev'>Demo.</a>
